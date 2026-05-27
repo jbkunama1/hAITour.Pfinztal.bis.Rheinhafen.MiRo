@@ -30,6 +30,20 @@
 
 ---
 
+## ⌚ Tour-Daten (GPX · Mi Fitness)
+
+| Wert | Daten |
+|---|---|
+| 📅 Datum | 27.05.2026 |
+| 📏 Distanz | **46,3 km** |
+| 🏔️ Anstieg kumuliert | ~362 m (lt. Mi Fitness) |
+| 📍 Start | Durlach / Pfinztal (lat 49.003, lon 8.500) |
+| ⌚ Aufzeichnung | Mi Fitness (Xiaomi Smartwatch) |
+| 🕐 Startzeit | 12:31 UTC (14:31 MESZ) |
+| 📁 GPX-Datei | [`hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx`](docs/hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx) |
+
+---
+
 ## 🎬 Tour-Highlight – Jetzt ansehen!
 
 > *(Video wird nach der Tour ergänzt)*
@@ -58,7 +72,7 @@ Die Tour ist in Abschnitte aufgeteilt:
 
 | Abschnitt | Google Maps | GPX Download |
 |---|---|---|
-| 🚴 Gesamtroute – Pfinztal → Rheinhafen | [Maps 🗺️](https://maps.app.goo.gl/7Ax5h4YXwzTJUCAS7) | [⬇️ GPX herunterladen](docs/route_pfinztal_rheinhafen.gpx) |
+| 🚴 **Gesamttrack** – Pfinztal → Rheinhafen | [Maps 🗺️](https://maps.app.goo.gl/7Ax5h4YXwzTJUCAS7) | [⬇️ GPX herunterladen](docs/hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx) |
 | 🚴 Teil 1 – Pfinztal | *(folgt)* | [⬇️ GPX herunterladen](docs/teil1_pfinztal.gpx) |
 | 🚴 Teil 2 – Mittlerer Abschnitt | *(folgt)* | [⬇️ GPX herunterladen](docs/teil2_mitte.gpx) |
 | 🚴 Teil 3 – Zum Rheinhafen | *(folgt)* | [⬇️ GPX herunterladen](docs/teil3_rheinhafen.gpx) |
@@ -76,7 +90,7 @@ Die Tour ist in Abschnitte aufgeteilt:
 ## 🗺️ Karten & Abschnitte
 
 ### Teil 1: Pfinztal – Start
-- Start: Pfinztal
+- Start: Pfinztal / Durlach
 - Charakter: Einrollen, Flussnähe, viel Grün 🌳
 - Route: [Gesamtroute auf Google Maps](https://maps.app.goo.gl/7Ax5h4YXwzTJUCAS7)
 
@@ -100,18 +114,20 @@ Die Tour ist in Abschnitte aufgeteilt:
 
 ```text
 hAITour.Pfinztal.bis.Rheinhafen.MiRo/
-├─ README.md                        ← diese Datei
-├─ index.html                       ← GitHub Pages Startseite
-├─ LICENSE                          ← MIT Lizenz
-├─ logo_PfinztalRheinhafen.png      ← Tour-Logo
-├─ Screenshot_Hinweg.jpg            ← Fitnessdaten Hinweg (Smartwatch)
-├─ Screenshot_Rückweg.jpg           ← Fitnessdaten Rückweg (Smartwatch)
-├─ images/                          ← Fotos der Tour (Wegpunkte)
+├─ README.md                                        ← diese Datei
+├─ index.html                                       ← GitHub Pages Startseite
+├─ LICENSE                                          ← MIT Lizenz
+├─ logo_PfinztalRheinhafen.png                      ← Tour-Logo
+├─ Screenshot_Hinweg.jpg                            ← Fitnessdaten Hinweg (Smartwatch)
+├─ Screenshot_Rückweg.jpg                           ← Fitnessdaten Rückweg (Smartwatch)
+├─ images/                                          ← Fotos der Tour (Wegpunkte)
 │   ├─ teil1/
 │   ├─ teil2/
 │   └─ teil3/
+├─ tracks/
+│   └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx
 └─ docs/
-    ├─ route_pfinztal_rheinhafen.gpx  ← GPX-Gesamttrack
+    ├─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx  ← GPX-Gesamttrack ✅
     ├─ teil1_pfinztal.gpx
     ├─ teil2_mitte.gpx
     └─ teil3_rheinhafen.gpx
