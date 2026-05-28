@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <img src="images/other/tourMap.jpg" alt="Tour-Karte: Pfinztal → Rheinhafen" width="700" />
+  <br/>
+  <em>🗺️ Tour-Karte: Pfinztal → Rheinhafen (MiRo, 27.05.2026)</em>
+</p>
+
+<p align="center">
   <a href="https://www.buymeacoffee.com/highfish">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="120" height="28" alt="Buy me a coffee" />
   </a>
