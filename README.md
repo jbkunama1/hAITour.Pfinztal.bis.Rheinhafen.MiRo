@@ -12,7 +12,7 @@
 
 ![GitHub Pages](https://img.shields.io/badge/view%20on-GitHub%20Pages-blueviolet?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-in%20Planung%20🔜-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-abgeschlossen%20✅-brightgreen?style=for-the-badge)
 
 > **Hybrid AI Tour** – Eine Fahrradtour vom **Pfinztal** bis zum **Rheinhafen**, dokumentiert mit Karten, Bildern und GitHub Pages. 🤖🚴
 
@@ -84,9 +84,9 @@ Die Tour ist in Abschnitte aufgeteilt:
 ## 🖼️ Fotogalerie der Tour
 
 <p align="center">
-  <img src="images/1779960414223.png" alt="Tourfoto 1" width="340" />
+  <img src="images/other/1779960414223.png" alt="Tourfoto 1" width="340" />
   &nbsp;&nbsp;
-  <img src="images/1779960511758.png" alt="Tourfoto 2" width="340" />
+  <img src="images/other/1779960511758.png" alt="Tourfoto 2" width="340" />
 </p>
 
 > 📸 Impressionen von der Fahrradtour Pfinztal → Rheinhafen, 27.05.2026
@@ -129,16 +129,17 @@ hAITour.Pfinztal.bis.Rheinhafen.MiRo/
 ├─ LICENSE                                          ← MIT Lizenz
 ├─ logo_PfinztalRheinhafen.png                      ← Tour-Logo
 ├─ screenshot.Tour.jpg                              ← Mi Fitness App Screenshot
-├─ Screenshot_Hinweg.jpg                            ← Fitnessdaten Hinweg (Smartwatch)
-├─ Screenshot_Rückweg.jpg                           ← Fitnessdaten Rückweg (Smartwatch)
 ├─ images/                                          ← Fotos der Tour
-│   ├─ 1779960414223.png                            ← Tourfoto 1
-│   ├─ 1779960511758.png                            ← Tourfoto 2
-│   ├─ teil1/
-│   ├─ teil2/
-│   └─ teil3/
+│   ├─ 01_.png                                      ← Hauptbild
+│   ├─ other/                                       ← Weitere Tourfotos
+│   │   ├─ 1779960414223.png
+│   │   ├─ 1779960511758.png
+│   │   └─ collage.png
+│   ├─ teil1/                                       ← Fotos Abschnitt 1
+│   ├─ teil2/                                       ← Fotos Abschnitt 2
+│   └─ teil3/                                       ← Fotos Abschnitt 3
 ├─ tracks/
-│   └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx
+│   └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx  ← GPX-Gesamttrack
 └─ docs/
     ├─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx  ← GPX-Gesamttrack ✅
     ├─ teil1_pfinztal.gpx
