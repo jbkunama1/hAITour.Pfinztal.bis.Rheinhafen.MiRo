@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="images/other/tourMap.jpg" alt="Tour-Karte: Pfinztal → Rheinhafen" width="700" />
+  <img src="images/other/tour-map-01.jpg" alt="Tour-Karte: Pfinztal → Rheinhafen" width="700" />
   <br/>
   <em>🗺️ Tour-Karte: Pfinztal → Rheinhafen (MiRo, 27.05.2026)</em>
 </p>
@@ -81,9 +81,9 @@ Dieses Repository begleitet meine Fahrradtour vom **Pfinztal** bis zum **Rheinha
 ## 🖼️ Fotogalerie der Tour
 
 <p align="center">
-  <img src="images/other/1779960414223.png" alt="Tourfoto 1" width="340" />
+  <img src="images/other/tour-photo-01.png" alt="Tourfoto 1" width="340" />
   &nbsp;
-  <img src="images/other/1779960511758.png" alt="Tourfoto 2" width="340" />
+  <img src="images/other/tour-photo-02.png" alt="Tourfoto 2" width="340" />
 </p>
 
 > 📸 Impressionen von der Fahrradtour Pfinztal → Rheinhafen, 27.05.2026
@@ -119,11 +119,11 @@ hAITour.Pfinztal.bis.Rheinhafen.MiRo/
 ├─ logo_PfinztalRheinhafen.png      ← Tour-Logo
 ├─ screenshot.Tour.jpg              ← Mi Fitness App Screenshot
 ├─ images/                          ← Fotos der Tour
-│   ├─ 01_.png                      ← Hauptbild
+│   ├─ tour-main-01.png              ← Hauptbild
 │   ├─ other/                       ← Weitere Tourfotos
-│   │   ├─ 1779960414223.png
-│   │   ├─ 1779960511758.png
-│   │   └─ collage.png
+│   │   ├─ tour-photo-01.png
+│   │   ├─ tour-photo-02.png
+│   │   └─ tour-collage-03.png
 │   ├─ teil1/                       ← Fotos Abschnitt 1
 │   ├─ teil2/                       ← Fotos Abschnitt 2
 │   └─ teil3/                       ← Fotos Abschnitt 3

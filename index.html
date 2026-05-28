@@ -203,16 +203,16 @@
           <div class="gallery-section-label label-other">📷 Tourimpressionen</div>
           <div class="gallery-grid">
             <div class="gallery-item" onclick="openLightbox(0)">
-              <img src="images/other/1779960414223.png" alt="Tourfoto 1" loading="lazy" />
+              <img src="images/other/tour-photo-01.png" alt="Tourfoto 1" loading="lazy" />
             </div>
             <div class="gallery-item" onclick="openLightbox(1)">
-              <img src="images/other/1779960511758.png" alt="Tourfoto 2" loading="lazy" />
+              <img src="images/other/tour-photo-02.png" alt="Tourfoto 2" loading="lazy" />
             </div>
             <div class="gallery-item" onclick="openLightbox(2)">
-              <img src="images/other/collage.png" alt="Collage" loading="lazy" />
+              <img src="images/other/tour-collage-03.png" alt="Collage" loading="lazy" />
             </div>
             <div class="gallery-item" onclick="openLightbox(3)">
-              <img src="images/01_.png" alt="Hauptbild" loading="lazy" />
+              <img src="images/tour-main-01.png" alt="Hauptbild" loading="lazy" />
             </div>
           </div>
 
@@ -334,10 +334,10 @@
 
 <script>
   const photos = [
-    { src: 'images/other/1779960414223.png', caption: 'Tourfoto 1' },
-    { src: 'images/other/1779960511758.png', caption: 'Tourfoto 2' },
-    { src: 'images/other/collage.png',       caption: 'Collage' },
-    { src: 'images/01_.png',                  caption: 'Hauptbild' }
+    { src: 'images/other/tour-photo-01.png', caption: 'Tourfoto 1' },
+    { src: 'images/other/tour-photo-02.png', caption: 'Tourfoto 2' },
+    { src: 'images/other/tour-collage-03.png',       caption: 'Collage' },
+    { src: 'images/tour-main-01.png',                  caption: 'Hauptbild' }
   ];
   let currentIndex = 0;
   function openLightbox(idx) { currentIndex = idx; showPhoto(); document.getElementById('lightbox').classList.add('open'); document.body.style.overflow = 'hidden'; }
