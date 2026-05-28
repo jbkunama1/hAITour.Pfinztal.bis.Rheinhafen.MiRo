@@ -334,11 +334,20 @@
 
 <script>
   const photos = [
-    { src: 'images/other/1779960414223.png', caption: 'Tourfoto 1' },
-    { src: 'images/other/1779960511758.png', caption: 'Tourfoto 2' },
-    { src: 'images/other/collage.png',       caption: 'Collage' },
-    { src: 'images/01_.png',                  caption: 'Hauptbild' }
-  ];
+  { src: 'images/01_.png', caption: 'Tourfoto 1' },
+  { src: 'images/02_.png', caption: 'Tourfoto 2' },
+  { src: 'images/03_.png', caption: 'Tourfoto 3' },
+  { src: 'images/04_.png', caption: 'Tourfoto 4' },
+  { src: 'images/Gemini_Generated_Image_.png', caption: 'KI-Bild 1' },
+  { src: 'images/Gemini_Generated_Image_560hmo560hmo560h.png', caption: 'KI-Bild 2' },
+  { src: 'images/Gemini_Generated_Image_exf85rexf85rexf8.png', caption: 'KI-Bild 3' },
+  { src: 'images/Gemini_Generated_Image_gdvy47gdvy47gdvy.png', caption: 'KI-Bild 4' },
+  { src: 'images/Gemini_Generated_Image_qp07ixqp07ixqp07.png', caption: 'KI-Bild 5' },
+  { src: 'images/Gemini_Generated_Image_rj8zgarj8zgarj8z.png', caption: 'KI-Bild 6' },
+  { src: 'images/other/1779960414223.png', caption: 'Tourfoto A' },
+  { src: 'images/other/1779960511758.png', caption: 'Tourfoto B' },
+  { src: 'images/other/collage.png', caption: 'Collage' }
+];
   let currentIndex = 0;
   function openLightbox(idx) { currentIndex = idx; showPhoto(); document.getElementById('lightbox').classList.add('open'); document.body.style.overflow = 'hidden'; }
   function showPhoto() { const p = photos[currentIndex]; document.getElementById('lightbox-img').src = p.src; document.getElementById('lightbox-img').alt = p.caption; document.getElementById('lightbox-caption').textContent = p.caption + ' (' + (currentIndex+1) + '/' + photos.length + ')'; }
