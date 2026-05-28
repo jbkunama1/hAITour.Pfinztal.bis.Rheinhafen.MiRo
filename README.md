@@ -80,13 +80,33 @@ Dieses Repository begleitet meine Fahrradtour vom **Pfinztal** bis zum **Rheinha
 
 ## 🖼️ Fotogalerie der Tour
 
-<p align="center">
-  <img src="images/other/1779960414223.png" alt="Tourfoto 1" width="340" />
-  &nbsp;
-  <img src="images/other/1779960511758.png" alt="Tourfoto 2" width="340" />
-</p>
-
 > 📸 Impressionen von der Fahrradtour Pfinztal → Rheinhafen, 27.05.2026
+
+<p align="center">
+  <img src="images/01_.png" alt="Tourfoto 1" width="340" />
+  <img src="images/02_.png" alt="Tourfoto 2" width="340" />
+</p>
+<p align="center">
+  <img src="images/03_.png" alt="Tourfoto 3" width="340" />
+  <img src="images/04_.png" alt="Tourfoto 4" width="340" />
+</p>
+<p align="center">
+  <img src="images/Gemini_Generated_Image_.png" alt="KI-Bild 1" width="220" />
+  <img src="images/Gemini_Generated_Image_560hmo560hmo560h.png" alt="KI-Bild 2" width="220" />
+  <img src="images/Gemini_Generated_Image_exf85rexf85rexf8.png" alt="KI-Bild 3" width="220" />
+</p>
+<p align="center">
+  <img src="images/Gemini_Generated_Image_gdvy47gdvy47gdvy.png" alt="KI-Bild 4" width="220" />
+  <img src="images/Gemini_Generated_Image_qp07ixqp07ixqp07.png" alt="KI-Bild 5" width="220" />
+  <img src="images/Gemini_Generated_Image_rj8zgarj8zgarj8z.png" alt="KI-Bild 6" width="220" />
+</p>
+<p align="center">
+  <img src="images/other/1779960414223.png" alt="Tourfoto A" width="340" />
+  <img src="images/other/1779960511758.png" alt="Tourfoto B" width="340" />
+</p>
+<p align="center">
+  <img src="images/other/collage.png" alt="Collage" width="700" />
+</p>
 
 ---
 
@@ -113,24 +133,34 @@ Dieses Repository begleitet meine Fahrradtour vom **Pfinztal** bis zum **Rheinha
 
 ```text
 hAITour.Pfinztal.bis.Rheinhafen.MiRo/
-├─ README.md                        ← diese Datei
-├─ index.html                       ← GitHub Pages Startseite
-├─ LICENSE                          ← MIT Lizenz
-├─ logo_PfinztalRheinhafen.png      ← Tour-Logo
-├─ screenshot.Tour.jpg              ← Mi Fitness App Screenshot
-├─ images/                          ← Fotos der Tour
-│   ├─ 01_.png                      ← Hauptbild
-│   ├─ other/                       ← Weitere Tourfotos
+├─ README.md
+├─ index.html
+├─ LICENSE
+├─ logo_PfinztalRheinhafen.png
+├─ screenshot.Tour.jpg
+├─ images/
+│   ├─ 01_.png
+│   ├─ 02_.png
+│   ├─ 03_.png
+│   ├─ 04_.png
+│   ├─ Gemini_Generated_Image_.png
+│   ├─ Gemini_Generated_Image_560hmo560hmo560h.png
+│   ├─ Gemini_Generated_Image_exf85rexf85rexf8.png
+│   ├─ Gemini_Generated_Image_gdvy47gdvy47gdvy.png
+│   ├─ Gemini_Generated_Image_qp07ixqp07ixqp07.png
+│   ├─ Gemini_Generated_Image_rj8zgarj8zgarj8z.png
+│   ├─ other/
 │   │   ├─ 1779960414223.png
 │   │   ├─ 1779960511758.png
-│   │   └─ collage.png
-│   ├─ teil1/                       ← Fotos Abschnitt 1
-│   ├─ teil2/                       ← Fotos Abschnitt 2
-│   └─ teil3/                       ← Fotos Abschnitt 3
+│   │   ├─ collage.png
+│   │   └─ tourMap.jpg
+│   ├─ teil1/
+│   ├─ teil2/
+│   └─ teil3/
 ├─ tracks/
-│   └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx  ← GPX-Gesamttrack
+│   └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx
 └─ docs/
-    └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx  ← GPX-Gesamttrack ✅
+    └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx
 ```
 
 ---
