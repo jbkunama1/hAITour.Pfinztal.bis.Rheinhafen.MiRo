@@ -119,7 +119,7 @@ hAITour.Pfinztal.bis.Rheinhafen.MiRo/
 ├─ logo_PfinztalRheinhafen.png      ← Tour-Logo
 ├─ screenshot.Tour.jpg              ← Mi Fitness App Screenshot
 ├─ images/                          ← Fotos der Tour
-│   ├─ 01_.png                      ← Hauptbild
+│   ├─ tour_image_1.png                      ← Hauptbild
 │   ├─ other/                       ← Weitere Tourfotos
 │   │   ├─ 1779960414223.png
 │   │   ├─ 1779960511758.png
