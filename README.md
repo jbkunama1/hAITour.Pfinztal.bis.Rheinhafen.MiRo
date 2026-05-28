@@ -10,9 +10,7 @@
   </a>
 </p>
 
-![GitHub Pages](https://img.shields.io/badge/view%20on-GitHub%20Pages-blueviolet?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-abgeschlossen%20✅-brightgreen?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/view%20on-GitHub%20Pages-blueviolet?style=for-the-badge) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge) ![Status](https://img.shields.io/badge/status-abgeschlossen%20✅-brightgreen?style=for-the-badge)
 
 > **Hybrid AI Tour** – Eine Fahrradtour vom **Pfinztal** bis zum **Rheinhafen**, dokumentiert mit Karten, Bildern und GitHub Pages. 🤖🚴
 
@@ -22,7 +20,7 @@
 
 <p align="center">
   <a href="https://maps.app.goo.gl/7Ax5h4YXwzTJUCAS7" target="_blank">
-    <img src="https://img.shields.io/badge/🗺️%20Route%20ansehen-Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Route auf Google Maps" />
+    <img src="https://img.shields.io/badge/🗺%20Route%20ansehen-Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Route auf Google Maps" />
   </a>
 </p>
 
@@ -46,13 +44,13 @@
 
 ## 🎬 Tour-Highlight – Jetzt ansehen!
 
-> *(Video wird nach der Tour ergänzt)*
+<p align="center">
+  <a href="https://youtube.com/shorts/r1ia93qhVPs" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20YouTube%20Short%20ansehen-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Short" />
+  </a>
+</p>
 
----
-
-## 🎥 Videotagebuch der Tour
-
-> *(Videos werden nach der Tour hier ergänzt)*
+> 🎥 [hAITour Pfinztal → Rheinhafen – YouTube Short](https://youtube.com/shorts/r1ia93qhVPs)
 
 ---
 
@@ -60,11 +58,7 @@
 
 Dieses Repository begleitet meine Fahrradtour vom **Pfinztal** bis zum **Rheinhafen**.
 
-Die Tour ist in Abschnitte aufgeteilt:
-
 1. **Teil 1 – Start im Pfinztal** → [Google Maps](https://maps.app.goo.gl/7Ax5h4YXwzTJUCAS7)
-2. **Teil 2 – Mittlerer Abschnitt** → *(Route wird ergänzt)*
-3. **Teil 3 – Finale zum Rheinhafen** → *(Route wird ergänzt)*
 
 ---
 
@@ -73,9 +67,6 @@ Die Tour ist in Abschnitte aufgeteilt:
 | Abschnitt | Google Maps | GPX Download |
 |---|---|---|
 | 🚴 **Gesamttrack** – Pfinztal → Rheinhafen | [Maps 🗺️](https://maps.app.goo.gl/7Ax5h4YXwzTJUCAS7) | [⬇️ GPX herunterladen](docs/hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx) |
-| 🚴 Teil 1 – Pfinztal | *(folgt)* | [⬇️ GPX herunterladen](docs/teil1_pfinztal.gpx) |
-| 🚴 Teil 2 – Mittlerer Abschnitt | *(folgt)* | [⬇️ GPX herunterladen](docs/teil2_mitte.gpx) |
-| 🚴 Teil 3 – Zum Rheinhafen | *(folgt)* | [⬇️ GPX herunterladen](docs/teil3_rheinhafen.gpx) |
 
 > 💡 **Hinweis:** Die GPX-Tracks liegen im Ordner `docs/` und können direkt heruntergeladen werden.
 
@@ -85,7 +76,7 @@ Die Tour ist in Abschnitte aufgeteilt:
 
 <p align="center">
   <img src="images/other/1779960414223.png" alt="Tourfoto 1" width="340" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="images/other/1779960511758.png" alt="Tourfoto 2" width="340" />
 </p>
 
@@ -98,14 +89,6 @@ Die Tour ist in Abschnitte aufgeteilt:
 ### Teil 1: Pfinztal – Start
 - Start: Pfinztal / Durlach
 - Charakter: Einrollen, Flussnähe, viel Grün 🌳
-- Route: [Gesamtroute auf Google Maps](https://maps.app.goo.gl/7Ax5h4YXwzTJUCAS7)
-
-### Teil 2: Mittlerer Abschnitt
-- Verbindungsetappe Richtung Rhein
-- Radwege & kleine Orte 🏘️
-
-### Teil 3: Zum Rheinhafen
-- Ziel: Rheinhafen 🌊
 - Route: [Gesamtroute auf Google Maps](https://maps.app.goo.gl/7Ax5h4YXwzTJUCAS7)
 
 ---
@@ -124,27 +107,24 @@ Die Tour ist in Abschnitte aufgeteilt:
 
 ```text
 hAITour.Pfinztal.bis.Rheinhafen.MiRo/
-├─ README.md                                        ← diese Datei
-├─ index.html                                       ← GitHub Pages Startseite
-├─ LICENSE                                          ← MIT Lizenz
-├─ logo_PfinztalRheinhafen.png                      ← Tour-Logo
-├─ screenshot.Tour.jpg                              ← Mi Fitness App Screenshot
-├─ images/                                          ← Fotos der Tour
-│   ├─ 01_.png                                      ← Hauptbild
-│   ├─ other/                                       ← Weitere Tourfotos
+├─ README.md                        ← diese Datei
+├─ index.html                       ← GitHub Pages Startseite
+├─ LICENSE                          ← MIT Lizenz
+├─ logo_PfinztalRheinhafen.png      ← Tour-Logo
+├─ screenshot.Tour.jpg              ← Mi Fitness App Screenshot
+├─ images/                          ← Fotos der Tour
+│   ├─ 01_.png                      ← Hauptbild
+│   ├─ other/                       ← Weitere Tourfotos
 │   │   ├─ 1779960414223.png
 │   │   ├─ 1779960511758.png
 │   │   └─ collage.png
-│   ├─ teil1/                                       ← Fotos Abschnitt 1
-│   ├─ teil2/                                       ← Fotos Abschnitt 2
-│   └─ teil3/                                       ← Fotos Abschnitt 3
+│   ├─ teil1/                       ← Fotos Abschnitt 1
+│   ├─ teil2/                       ← Fotos Abschnitt 2
+│   └─ teil3/                       ← Fotos Abschnitt 3
 ├─ tracks/
 │   └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx  ← GPX-Gesamttrack
 └─ docs/
-    ├─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx  ← GPX-Gesamttrack ✅
-    ├─ teil1_pfinztal.gpx
-    ├─ teil2_mitte.gpx
-    └─ teil3_rheinhafen.gpx
+    └─ hAITour_Pfinztal_Rheinhafen_MiRo_20260527.gpx  ← GPX-Gesamttrack ✅
 ```
 
 ---
