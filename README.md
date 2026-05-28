@@ -83,7 +83,13 @@ Die Tour ist in Abschnitte aufgeteilt:
 
 ## 🖼️ Fotogalerie der Tour
 
-> *(Fotos werden nach der Tour ergänzt)*
+<p align="center">
+  <img src="images/1779960414223.png" alt="Tourfoto 1" width="340" />
+  &nbsp;&nbsp;
+  <img src="images/1779960511758.png" alt="Tourfoto 2" width="340" />
+</p>
+
+> 📸 Impressionen von der Fahrradtour Pfinztal → Rheinhafen, 27.05.2026
 
 ---
 
@@ -125,7 +131,9 @@ hAITour.Pfinztal.bis.Rheinhafen.MiRo/
 ├─ screenshot.Tour.jpg                              ← Mi Fitness App Screenshot
 ├─ Screenshot_Hinweg.jpg                            ← Fitnessdaten Hinweg (Smartwatch)
 ├─ Screenshot_Rückweg.jpg                           ← Fitnessdaten Rückweg (Smartwatch)
-├─ images/                                          ← Fotos der Tour (Wegpunkte)
+├─ images/                                          ← Fotos der Tour
+│   ├─ 1779960414223.png                            ← Tourfoto 1
+│   ├─ 1779960511758.png                            ← Tourfoto 2
 │   ├─ teil1/
 │   ├─ teil2/
 │   └─ teil3/
