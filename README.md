@@ -106,7 +106,11 @@ Die Tour ist in Abschnitte aufgeteilt:
 
 ## ⌚ Fitnessdaten der Tour – Smartwatch-Aufzeichnung
 
-> *(Smartwatch-Screenshots werden nach der Tour ergänzt)*
+<p align="center">
+  <img src="screenshot.Tour.jpg" alt="Mi Fitness App – Screenshot der Tour (27.05.2026)" width="360" />
+</p>
+
+> 📱 Screenshot aus der **Mi Fitness App** – Aufzeichnung der Fahrradtour vom 27.05.2026
 
 ---
 
@@ -118,6 +122,7 @@ hAITour.Pfinztal.bis.Rheinhafen.MiRo/
 ├─ index.html                                       ← GitHub Pages Startseite
 ├─ LICENSE                                          ← MIT Lizenz
 ├─ logo_PfinztalRheinhafen.png                      ← Tour-Logo
+├─ screenshot.Tour.jpg                              ← Mi Fitness App Screenshot
 ├─ Screenshot_Hinweg.jpg                            ← Fitnessdaten Hinweg (Smartwatch)
 ├─ Screenshot_Rückweg.jpg                           ← Fitnessdaten Rückweg (Smartwatch)
 ├─ images/                                          ← Fotos der Tour (Wegpunkte)
