@@ -16,7 +16,7 @@
   </a>
 </p>
 
-![GitHub Pages](https://img.shields.io/badge/view%20on-GitHub%20Pages-blueviolet?style=for-the-badge) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge) ![Status](https://img.shields.io/badge/status-abgeschlossen%20✅-brightgreen?style=for-the-badge)
+[![GitHub Pages](https://img.shields.io/badge/view%20on-GitHub%20Pages-blueviolet?style=for-the-badge)](https://github.com/jbkunama1/hAITour.Pfinztal.bis.Rheinhafen.MiRo) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/jbkunama1/hAITour.Pfinztal.bis.Rheinhafen.MiRo) [![Status](https://img.shields.io/badge/status-abgeschlossen%20✅-brightgreen?style=for-the-badge)](https://github.com/jbkunama1/hAITour.Pfinztal.bis.Rheinhafen.MiRo)
 
 > **Hybrid AI Tour** – Eine Fahrradtour vom **Pfinztal** bis zum **Rheinhafen**, dokumentiert mit Karten, Bildern und GitHub Pages. 🤖🚴
 
